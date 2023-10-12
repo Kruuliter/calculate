@@ -1,0 +1,73 @@
+C:\Users\Murzik\Desktop\Прога\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\He@p of folder$\Универ\Учеба\Предметы\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
+E:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
+E:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe
+E:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.pdb
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+E:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+F:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
+F:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe
+F:\ООП\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.pdb
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+F:\ООП\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+C:\Users\Murzik\Desktop\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Murzik\Desktop\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Murzik\Desktop\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.csprojResolveAssemblyReference.cache
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Murzik\Desktop\калькулятор\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.Cache
+D:\He@p of folder$\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\He@p of folder$\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\He@p of folder$\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\Professional\Desktop\Универ\Учеба\Предметы\Разобрать\Объектно ориентированное программирование\3. Calculate\Calculate\Calculate\obj\Debug\Calculate.pdb
+F:\ООП\Calculate\Calculate\bin\Debug\Calculate.exe.config
+F:\ООП\Calculate\Calculate\bin\Debug\Calculate.exe
+F:\ООП\Calculate\Calculate\bin\Debug\Calculate.pdb
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.exe
+F:\ООП\Calculate\Calculate\obj\Debug\Calculate.pdb
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\bin\Debug\Calculate.exe.config
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\bin\Debug\Calculate.exe
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\bin\Debug\Calculate.pdb
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.csprojAssemblyReference.cache
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.exe
+D:\Институт\Объектно-ориентированное_программирование\Calculate\Calculate\obj\Debug\Calculate.pdb
